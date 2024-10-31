@@ -1,4 +1,6 @@
 # JAX-RS-JAXB-Jersey
 
-https://github.com/user-attachments/assets/f52cf3e1-cf73-45e6-98c1-d6eddc2ed8f6
+
+
+https://github.com/user-attachments/assets/849f83ca-51cd-4d24-b254-50dc5eaacadc
 
